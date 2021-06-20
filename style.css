@@ -1,0 +1,108 @@
+
+  *{ 
+    box-sizing: border-box; 
+    margin:0px ; 
+    padding: 0px;
+}
+
+ main {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+} 
+
+.container {
+  padding: 30px 0px;
+}
+
+
+
+body {
+  background: #f7f7f7;
+} 
+h4#author {
+  font-size: 30px;
+  color: green;
+}
+
+p#job {
+  font-size: 37px;
+}
+
+p#info {
+  font-size: 17px;
+  width: 344px;
+  line-height: 28px;
+  font-weight: bold;
+}
+
+button.prev-btn {
+  font-size: 20px;
+}
+
+button.next-btn {
+  font-size: 20px;
+  margin: 10px;
+} 
+img#person-img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 100%;
+} 
+.container {
+  padding: 30px 20px;
+  background: #fff;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.title {
+  background: #c1c1d8;
+  font-size: 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.title h2 {
+  color: #6d4c46;
+}
+
+button.prev-btn {border: none;padding: 4px;border-radius: 20px;}
+
+
+button.prev-btn i {
+  font-size: 34px;
+} 
+button.next-btn {border: none;padding: 4px;border-radius: 20px;}
+
+
+button.next-btn i {
+  font-size: 34px;
+} 
+.title {
+  background: #c1c1d8;
+  font-size: 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.title h2 {
+  color: #6d4c46;
+}
+
+button.prev-btn {border: none;padding: 4px;border-radius: 20px;}
+
+
+button.prev-btn i {
+  font-size: 34px;
+}
+
+button.random-btn {
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  background: #675a5a;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 14px;
+}
